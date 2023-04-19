@@ -1,2 +1,4 @@
 painting
+dancing 
+singing
 
